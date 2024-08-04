@@ -1,6 +1,6 @@
 # anxiety 
 
-anxiety.py is an interactive program to visualize prevalence trends by sex and by age in the US.
+anxiety.py is an interactive program to visualize prevalence trends on anxiety and depression by sex and by age in the US.
 
 Download the dataset from the following site and rename it to data.csv:
 
